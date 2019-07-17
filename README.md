@@ -1,0 +1,2 @@
+# Detection-of-traffic-signals.
+Nuestro problema consiste en la detección de señales de tráfico. Nuestro objetivo final es, dada una imagen, detectar si hay o no señales en la imagen y en caso afirmativo, señalarla en la misma de forma intuitiva. Durante los sucesivos apartados vamos a detallar una primera aproximación a la solución de este problema, uniendo los conocimientos adquiridos en las materias de visión por computador y aprendizaje automático.
